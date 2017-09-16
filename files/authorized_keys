@@ -1,0 +1,3 @@
+ssh-rsa XXX user1@machine1
+ssh-rsa XXX user2@machine2
+ssh-rsa XXX user3@machine3
