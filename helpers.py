@@ -4,7 +4,7 @@ import sys
 import typing
 
 
-_ONLY_PRINT_COMMANDS = False
+_ONLY_PRINT_COMMANDS = True
 _SCRIPT_DIR = os.path.dirname(__file__).replace('\\', '/') + '/'
 
 

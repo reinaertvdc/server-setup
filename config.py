@@ -3,7 +3,7 @@ import os
 from helpers import *
 
 
-ONLY_PRINT_COMMANDS = False
+ONLY_PRINT_COMMANDS = True
 
 ROOT_PASSWORD = 'placeholder'
 SERVER_ADMIN_USERNAME = 'serveradmin'
